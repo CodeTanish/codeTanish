@@ -9,7 +9,6 @@ I'm a Full Stack Developer specializing in MERN Stack, React Native, and Android
 - 🔒 Auth: JWT, OAuth
 - 📡 Real-time: Socket.io
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTanish&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTanish&layout=compact&theme=github_dark)
 
 ### 📚 Currently Learning
