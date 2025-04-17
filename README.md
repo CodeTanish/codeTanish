@@ -16,7 +16,7 @@ I'm a Full Stack Developer specializing in MERN Stack, React Native, and Android
 - Building full-stack systems in Web
 
 ### 🔗 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)]((https://codetanish.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://codetanish.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:rastogitanish673@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codeTanish)
